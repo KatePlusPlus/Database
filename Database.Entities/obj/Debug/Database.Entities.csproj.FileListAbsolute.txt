@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Database\Database.Entities\bin\Debug\Database.Entities.dll.config
+C:\Users\Admin\source\repos\Database\Database.Entities\bin\Debug\Database.Entities.dll
+C:\Users\Admin\source\repos\Database\Database.Entities\bin\Debug\Database.Entities.pdb
+C:\Users\Admin\source\repos\Database\Database.Entities\obj\Debug\Database.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Database\Database.Entities\obj\Debug\Database.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Database\Database.Entities\obj\Debug\Database.Entities.dll
+C:\Users\Admin\source\repos\Database\Database.Entities\obj\Debug\Database.Entities.pdb
+C:\Users\Admin\Desktop\Database\Database.Entities\bin\Debug\Database.Entities.dll.config
+C:\Users\Admin\Desktop\Database\Database.Entities\bin\Debug\Database.Entities.dll
+C:\Users\Admin\Desktop\Database\Database.Entities\bin\Debug\Database.Entities.pdb
+C:\Users\Admin\Desktop\Database\Database.Entities\obj\Debug\Database.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Database\Database.Entities\obj\Debug\Database.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Database\Database.Entities\obj\Debug\Database.Entities.dll
+C:\Users\Admin\Desktop\Database\Database.Entities\obj\Debug\Database.Entities.pdb
